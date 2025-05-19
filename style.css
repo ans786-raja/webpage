@@ -42,7 +42,6 @@ body {
     margin-right: 10px;
     width: 30px;
     height: 30px;
-    background-color: rgba(255, 255, 255, 0.2);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -192,7 +191,7 @@ body {
 }
 
 .slide-content h1 {
-    color: #d3a3a3;
+    color: black;
     font-size: 50px;
 }
 
@@ -1694,7 +1693,7 @@ textarea.form-control {
         text-align: center;
     }
 
-
+    
     #openNavbarMenu:checked~.nav-menu {
         display: flex;
     }
